@@ -1,5 +1,7 @@
 Park Hyatt Seoul
 [Hotel Information]
-
+606, Teheran- ro , Gangnam-gu , Seoul
 
 [Convneience facilities]
+- Wifi
+- One bed
